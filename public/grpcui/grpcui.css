@@ -370,6 +370,11 @@ input[type="radio"] {
 
 }
 
+#grpc-desc-selects select {
+    outline: 1px solid rgba(255, 255, 255, 0.6);
+    border-right: 14px solid transparent;
+}
+
 .history-detail-heading table {
     color: #4AB249 !important;
 }
